@@ -13,7 +13,7 @@
     "ffi",
     "bridge"
   ],
-  "os": [ 
+  "os": [
     "darwin"
   ],
   "version": "2.1.0",
@@ -29,10 +29,7 @@
   },
   "dependencies": {
     "debug": "*",
-    "ffi": "lxe/node-ffi#node-12",
     "function-class": "^1.0.0",
-    "ref": "lxe/ref#node-12",
-    "ref-struct": "lxe/ref-struct#node-12",
     "setprototypeof": "^1.0.0"
   },
   "devDependencies": {
